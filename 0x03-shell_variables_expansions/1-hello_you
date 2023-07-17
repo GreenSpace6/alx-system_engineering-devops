@@ -1,3 +1,2 @@
 #!/bin/bash
-MyUser="hello user"
-echo $MyUser
+echo hello MyUser
