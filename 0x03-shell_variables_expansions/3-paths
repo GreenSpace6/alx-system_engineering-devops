@@ -1,2 +1,2 @@
 #!/bin/bash
-ls $PATH ../3-paths
+ls -l $(PATH)
